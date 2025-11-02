@@ -1,4 +1,6 @@
 # cryptography-lab
+Xây dựng bài lab về mã hoá đường cong trên nền tảng labtainer
+
 Tài liệu này cung cấp hướng dẫn chi tiết các bước cần thiết để tải môi trường, thực hiện và nộp bài thực hành (lab) trên hệ thống SecLab dành cho sinh viên Học viện Công nghệ Bưu chính Viễn thông.
 
 1. Công tác Chuẩn bị
